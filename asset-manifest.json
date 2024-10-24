@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tourism/static/css/main.a96c20fd.css",
+    "main.js": "/tourism/static/js/main.af814ef4.js",
+    "static/js/453.5e91dcbf.chunk.js": "/tourism/static/js/453.5e91dcbf.chunk.js",
+    "static/media/rec.png": "/tourism/static/media/rec.c9c4230d7b39650728ee.png",
+    "static/media/image-2.svg": "/tourism/static/media/image-2.a0ec23e450e5b7e32b4042ec44d4ed21.svg",
+    "static/media/camel.png": "/tourism/static/media/camel.9b4e2491f658fa2c25ae.png",
+    "static/media/image-1.svg": "/tourism/static/media/image-1.9f99618bb3cf745374434e3357ed4f5b.svg",
+    "static/media/image3.png": "/tourism/static/media/image3.7b4017a20d4cb2cb5114.png",
+    "static/media/logo.svg": "/tourism/static/media/logo.45baff8235e7d4dc21bff398181ff671.svg",
+    "static/media/host.svg": "/tourism/static/media/host.850f3b5832acbaed3b0414c8d77858de.svg",
+    "static/media/reserve.svg": "/tourism/static/media/reserve.296319c24caff9d8d1b6e2e4fd225636.svg",
+    "index.html": "/tourism/index.html",
+    "main.a96c20fd.css.map": "/tourism/static/css/main.a96c20fd.css.map",
+    "main.af814ef4.js.map": "/tourism/static/js/main.af814ef4.js.map",
+    "453.5e91dcbf.chunk.js.map": "/tourism/static/js/453.5e91dcbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a96c20fd.css",
+    "static/js/main.af814ef4.js"
+  ]
+}
