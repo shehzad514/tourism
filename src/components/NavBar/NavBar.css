@@ -1,0 +1,78 @@
+/* Nav Bar */
+.NavBar {
+  background-color: #18546e;
+  width: 100%;
+  height: 84px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Nav-logo img {
+  width: 129px;
+  height: 47px;
+  margin-left: 35px;
+  cursor: pointer;
+}
+
+.Nav-right-sec {
+  display: flex;
+  margin-right: 57px;
+  gap: 28px;
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+.Nav-links ul {
+  display: flex;
+  list-style: none;
+  gap: 28px;
+}
+
+.Nav-links ul li a {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  transition: ease-in-out 0.5s;
+}
+.Nav-links ul li:hover 
+{
+  transform: scale(1.2);
+  transition: ease-in-out 0.5s;
+}
+.line {
+    color: white;
+   height: 22px;
+   cursor: default;
+   width: 2px;
+   background-color: white;
+  }
+
+.Nav-btns {
+  display: flex;
+  gap: 28px;
+}
+.Nav-btns a {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  transition: ease-in-out 0.5s;
+}
+.Nav-btns a:hover
+{
+  transform: scale(1.2);
+}
+.search-icon, .shop-icon
+{
+    color: white;
+    width: 22px;
+    height: 22px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: ease-in-out 0.5s;
+}
+.search-icon:hover , .shop-icon:hover
+{
+  transform: scale(1.2);
+}
+

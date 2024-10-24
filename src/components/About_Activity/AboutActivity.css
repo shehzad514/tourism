@@ -1,0 +1,49 @@
+.about_activity_heading
+{
+    margin-top: 10px;
+    font-family: "Poppins", serif;
+}
+.about_activity_heading h2 
+{
+    font-weight: 700;
+    font-size: 23px;
+}
+
+.about_activity_items 
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 25px;
+    gap: 20px;
+}
+.about_activity_item_detail
+{
+    display: flex;
+    gap: 10px;
+    font-family: "Poppins", serif;
+}
+.icon 
+{
+    font-size: 24px;
+    color: rgb(5, 214, 5);
+}
+.icon_pic
+{
+    width: 24px;
+    height: 24px;
+}
+.activity_heading
+{
+    font-weight: 400;
+    font-size: 14px;
+    color: #1A2B49;
+
+}
+.activity_p
+{
+    font-weight: 400;
+    font-size: 12.8px;
+    color: #63687A;
+
+}

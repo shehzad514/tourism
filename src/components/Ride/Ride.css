@@ -1,0 +1,108 @@
+.ride_sec
+{
+  width: 902px;
+  height: auto;
+  border: 1px solid #CDCDCD;
+  margin-top: 20px;
+}
+.ride_container
+{
+    display: flex;
+    padding: 20px 10px;
+    justify-content: space-between;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.ride_left_cont 
+{
+    display: flex;
+    gap: 10px;
+}
+.ride_heading
+{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.small_star
+{
+    width: 15px;
+    height: 15px;
+}
+.ride_desc ul
+{
+    display: flex;
+    flex-direction: column;
+    width: 358px;
+    padding: 10px 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    color: #2E2E2E;
+    gap: 10px;
+    margin-top: 15px;
+}
+.ride_middle_cont
+{
+    height: 251px;
+    border: 1px solid #B7B7B7;
+}
+.ride_right_cont
+{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.ride_reigt_cont_items
+{
+    display: flex;
+    gap: 8px;
+    color: #1A2B49;
+    font-family: "Poppins", serif;
+    font-weight: 400px;
+}
+.ride_reigt_cont_price
+{
+    margin-top: 20px;
+}
+.ride_reigt_cont_price p
+{
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 700px;
+}
+.ride_reigt_cont_price h3
+{
+    font-family: sans-serif;
+    font-size: 21.22px;
+    font-weight: 700px;
+}
+.ride_reigt_cont_btn
+{
+   
+    margin: 0 auto;
+    margin-top: 10px;
+   
+}
+.check_btn
+{
+    font-family: sans-serif;
+    width: 243px;
+    height: 38px;
+    color: white;
+    font-weight: 700px;
+    font-size: 13px;
+    background: #18546E;
+    border: 0.88px solid #18546E;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.check_btn:hover 
+{
+    background-color: white;
+    border: 1px solid rgb(41, 41, 41);
+    transition: ease-in-out 0.5s;
+    color: rgb(41, 41, 41);;
+}

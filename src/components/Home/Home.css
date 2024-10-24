@@ -1,0 +1,145 @@
+.home-sec
+{
+    width: 100%;
+    height: auto;
+}
+.home-container 
+{
+    display: flex;
+    height: auto;
+    margin-top: 20px;
+    flex-direction: column;
+    margin-left: 107px;
+    margin-right: 96px;
+    padding-bottom: 10px;
+}
+.up-container-heading 
+{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+}
+.up-container-rating 
+{
+    width: 30%;
+    display: flex;
+    gap: 6.4px;
+   margin-top: 10px;
+   align-items: center;
+}
+.ist-star, .scnd-star, .trd-star, .frth-star, .fith-star
+{
+    width: 23px;
+    height: 23px;
+    cursor: pointer;
+}
+.ist-star:hover{
+    transform: translate(1.5);
+}
+.ist-star
+{
+    color:  #FA9600;
+}
+.scnd-star{
+    color: #FA9600D4;
+}
+.trd-star
+{
+    color: #FBA82BCF;
+}
+.frth-star 
+{
+    color:#FBA018A1;
+}
+.fith-star
+{
+    color: #FBA0186B;
+}
+.up-container-rating h2 
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    margin-left: 10px;
+    color: #545353;
+}
+.down-container 
+{
+    display: flex;
+    margin-top: 10px;
+    gap: 20px;
+}
+.gallery-sec 
+{
+    display: flex;
+    gap: 10px;
+    padding: 1px;
+    flex-wrap: wrap;
+}
+.gallery-left-sec
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 146px;
+}
+.gallery-right-sec
+{
+    height: 410px;
+    width: 761px;
+}
+.image4
+{
+    height: 410px;
+}
+.image-container {
+    position: relative;
+    width: 100%; /* Ensure it takes up the space of the parent container */
+    display: flex;
+    justify-content: center;
+  }
+  .image-container img {
+    width: 100%; /* Ensures image scales to fit the container */
+  }
+  .show-more-text {
+    position: absolute;
+    font-family: "Inter", sans-serif;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 10.63px;
+    font-weight: 200;
+    text-align: center;
+    cursor: pointer;
+  }    
+.AboutActivity_home_sec 
+{
+    width: 373px;
+    height: 385px;
+    padding: 10px 10px;
+    box-shadow: 0.88px 1.77px 8.4px 4.42px #00000014;
+
+}
+
+.below_sec 
+{
+    display: flex;
+    gap: 35px;
+}
+.below_sec_right_up
+{
+    margin-top: -30px;
+    width: 373px;
+    height: 373px;
+    box-shadow: 0.88px 1.77px 8.4px 4.42px #0000001A;
+
+}
+.below_sec_right_down
+{
+    width: 373px;
+    height: 265px;
+    box-shadow: 0.88px 1.76px 8.35px 0px #0000001A;
+    margin-top: 10px;
+}
